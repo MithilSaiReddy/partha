@@ -1,0 +1,2 @@
+# partha
+simple CLI application
